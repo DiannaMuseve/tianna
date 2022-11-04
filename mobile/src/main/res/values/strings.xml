@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FEPModular</string>
+    <string name="title_onboarding">onboarding</string>
+    <string name="title_common">common</string>
+    <string name="title_fgi">FGI</string>
+    <string name="title_fountain">fountain</string>
+    <string name="title_unicom">unicom</string>
+    <string name="title_investment">investment</string>
+</resources>
